@@ -1,6 +1,6 @@
 test
 # Starter Web Repo
-
+Adding a line
 This repository is for showing how Git and GitHub work
 ## Introduction
 ## Purpose
