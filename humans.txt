@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Fan Zhang fzhang@git.training
     <name> -- <role> -- <twitter>
 
 # THANKS
